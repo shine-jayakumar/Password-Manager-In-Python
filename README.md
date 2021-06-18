@@ -82,4 +82,5 @@ Click on **Export** from the File Menu in Password Manager
 Passwords will be exported to the location specified in 
 `location=` 
 in config.ini
+
 Default export location is %USERPROFILE%\Documents
