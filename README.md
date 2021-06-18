@@ -1,9 +1,24 @@
 # Password Manager v.1
+
+
+[![](https://img.shields.io/github/license/shine-jayakumar/Password-Manager-In-Python)](https://github.com/shine-jayakumar/Password-Manager-In-Python/blob/main/LICENSE "![](https://img.shields.io/github/license/shine-jayakumar/Password-Manager-In-Python)")
+
 A  password manager with GUI written in Python. It can save website URLs, username, and passwords so you do not have to remember them. You can also generate random passwords on the go.
 
 <img src="https://github.com/shine-jayakumar/Password-Manager-In-Python/blob/main/ReadMe_Images/passwordmanager.png" alt="Password Manager"/>
 
-### Why a password Manager?
+**Table of Contents**
+
+- [Why A Password Manager?](#Why-A-Password-Manager "Why a password manager?")
+- [Features](#Features "Features")
+- [Requirements](#Requirements "Requirements")
+- [Install Requirements](#Install-Requirements "Install Requirements")
+- [How To Launch](#How-To-Launch "How to launch")
+- [Creating Desktop Shortcut](#Creating-Desktop-Shortcut "Creating Desktop Shortcut") 
+- [Import Passwords](#Import-Passwords "Import Passwords")
+- [Export Passwords](#Export-Passwords "Export Passwords")
+
+### Why A Password Manager
 A couple of months ago I stumbled upon a YouTube video that talked about how much of your information is floating around on the internet and a simple search can reveal so much about you. One compromised website can reveal your password putting all other accounts at risk
 
 A website like [have i been pwned?](https://haveibeenpwned.com/ "have i been pwned?") can show you if one of the services you signed up for was ever compromised. 
@@ -29,7 +44,7 @@ I took my first step - I decided to write a simple password manager. Now, you ca
 ### Install Requirements
 `pip install -r requirements.txt`
 
-### How to launch?
+### How To Launch
 `python passwordmanager.py` 
 
 **OR**
